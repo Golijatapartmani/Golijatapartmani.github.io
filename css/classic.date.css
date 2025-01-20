@@ -225,7 +225,7 @@
  * The footer containing the "today", "clear", and "close" buttons.
  */
 .picker__footer {
-  text-align: center;
+  text-align: justify;
 }
 .picker__button--today,
 .picker__button--clear,

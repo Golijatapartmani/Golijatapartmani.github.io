@@ -11,7 +11,7 @@
  * The header containing the month and year stuff.
  */
 .picker__header {
-  text-align: center;
+  text-align: justify;
   position: relative;
   margin-top: .75em;
 }
@@ -127,7 +127,7 @@
  * The calendar table of dates
  */
 .picker__table {
-  text-align: center;
+  text-align: justify;
   border-collapse: collapse;
   border-spacing: 0;
   table-layout: fixed;

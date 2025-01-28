@@ -249,7 +249,7 @@ button:focus{
 .btn{
 	display: inline-block;
 	font-weight: 600;
-	text-align: center;
+	text-align: justiify;
 	white-space: nowrap;
 	vertical-align: middle;
 	-webkit-user-select: none;
@@ -575,7 +575,7 @@ button:focus{
 	width: 60px;
 	height: 60px;
 	line-height: 60px;
-	text-align: center;
+	text-align: justify;
 	background: #fff;
 	color: #d0a772;
 	font-size: 30px;

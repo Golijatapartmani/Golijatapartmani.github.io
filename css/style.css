@@ -219,7 +219,7 @@ button:focus{
     display: block;
     color: #fff;
 	line-height: 80px;
-	text-align: justify;
+	text-align: center;
     transition: all .3s ease-in-out;
 }
 .slides-navigation a i{
@@ -249,7 +249,7 @@ button:focus{
 .btn{
 	display: inline-block;
 	font-weight: 600;
-	text-align: justify;
+	text-align: center;
 	white-space: nowrap;
 	vertical-align: middle;
 	-webkit-user-select: none;
@@ -575,7 +575,7 @@ button:focus{
 	width: 60px;
 	height: 60px;
 	line-height: 60px;
-	text-align: justify;
+	text-align: center;
 	background: #fff;
 	color: #d0a772;
 	font-size: 30px;
@@ -1323,16 +1323,6 @@ blockquote {
     transition: opacity 0.2s ease-out;
 	font-size: 30px;
 }
-
-
-
-
-
-
-
-
-
-
 
 
 

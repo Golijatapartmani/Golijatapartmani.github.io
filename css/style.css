@@ -342,7 +342,7 @@ button:focus{
 
 
 .qt-background{
-	background: url(images/golijapozadina.jpg) no-repeat;
+	background: url(../images/qt-bg.jpg) no-repeat;
 	background-size: cover;
 	padding: 100px 0;
 	background-attachment: fixed;
@@ -1323,9 +1323,6 @@ blockquote {
     transition: opacity 0.2s ease-out;
 	font-size: 30px;
 }
-
-
-
 
 
 
